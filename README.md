@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amrat</h1>
-<h3 align="center">A passionate Java, Python, Django and Flutter developer from pakistan</h3>
+<h3 align="center">A passionate Flutter, Java, Python, and Django developer from pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amrat26728&label=Profile%20views&color=0e75b6&style=flat" alt="amrat26728" /> </p>
 
@@ -8,6 +8,7 @@
 - 💬 Ask me about **python, java**
 
 - 📫 How to reach me **amratamrat2000@gmail.com**
+- 📫 How to reach me **https://www.linkedin.com/in/amrat-61267122a/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
