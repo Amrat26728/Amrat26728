@@ -8,7 +8,7 @@
 - 💬 Ask me about **python, java**
 
 - 📫 How to reach me **amratmerya@gmail.com**
-- 📫 How to reach me **https://www.linkedin.com/in/amrat-61267122a/**
+- 📫 How to reach me **https://www.linkedin.com/in/amrat-merya/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
