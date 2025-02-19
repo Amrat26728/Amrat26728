@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **python, java**
 
-- 📫 How to reach me **amratamrat2000@gmail.com**
+- 📫 How to reach me **amratmerya@gmail.com**
 - 📫 How to reach me **https://www.linkedin.com/in/amrat-61267122a/**
 
 <h3 align="left">Connect with me:</h3>
