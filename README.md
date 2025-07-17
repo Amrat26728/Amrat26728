@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amrat</h1>
-<h3 align="center">A passionate Flutter, Java, Python, and Django developer from pakistan</h3>
+<h3 align="center">A passionate Flutter, Java, Python, and Django developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amrat26728&label=Profile%20views&color=0e75b6&style=flat" alt="amrat26728" /> </p>
 
